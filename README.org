@@ -2,6 +2,6 @@
 
 Files in support of the [[https://www.gnu.org/software/guile/docs/guile-tut/tutorial.html][Tutorial Introduction to Guile]].
 
-The tutorial demonstrates driving gnuplot from Guile through a C layer to provide simple [[https://en.wikipedia.org/wiki/Turtle_graphics][Turtle Grpahics]] much like in [[https://en.wikipedia.org/wiki/Logo_(programming_language)][Logo]].
+The tutorial demonstrates driving gnuplot from Guile through a C layer to provide simple [[https://en.wikipedia.org/wiki/Turtle_graphics][Turtle Graphics]] much like in [[https://en.wikipedia.org/wiki/Logo_(programming_language)][Logo]].
 
 This is all taken from the GNU documentation website, and the FSF's copyright and licensing are maintained.
